@@ -1,2 +1,2 @@
-# hotel-management-system
-Hotel booking and management system using Java, JDBC, and Oracle SQL
+This project is a simple Hotel Management System using Java and JDBC.
+It allows adding booking details into Oracle database.
